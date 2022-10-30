@@ -93,5 +93,6 @@ Run single file test:
 
 ### Authors
 
-Goldman Obioma
+Goldman Obioma, and
+
 Affamuefuna Jane
